@@ -1,0 +1,5 @@
+slug: laogu-lhb
+display_name: 龙虎榜夜报
+description: 龙虎榜夜报：每日收盘后自动复盘A股龙虎榜，按机构/游资/深沪股通席位标签分类，提炼净买入净卖出Top5并输出中文解读。
+version: 1.0.0
+author: 老谷拆财报
